@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul  2 14:55:35 2020
-
-@author: samsung
-"""
 
 import cv2
 
